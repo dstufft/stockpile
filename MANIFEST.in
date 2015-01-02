@@ -1,0 +1,5 @@
+include CHANGELOG.rst LICENSE README.rst
+include tox.ini
+include .coveragerc
+
+recursive-include docs Makefile *.py *.rst *.empty
