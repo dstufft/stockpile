@@ -1,0 +1,10 @@
+_build/
+build/
+dist/
+htmlcov/
+.tox/
+.coverage
+*.egg-info/
+*.egg
+.eggs/
+*.py[co]
